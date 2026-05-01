@@ -21,15 +21,9 @@ About Section: Career summary and education from your resume
 Skills Section: Technical skills with animated progress bars (HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, Redis, Git, GitHub, Figma)
 Projects Section: Your mini projects from the bootcamp
 Contact Section: Working contact form with your email, phone, and location
-Social Links: Githuh and LinkedIn 
+Social Links
 
 To view this open VS Code and simply go to index.html file then from there simply click on go live underneath somewhere of VS code to view full website. 
-
-
-
-
-
-
 
 LinkedIn, GitHub, and Email links in the hero section
 All styled with hover animations
